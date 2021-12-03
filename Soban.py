@@ -1,9 +1,9 @@
 #!/usr/bin/python2
 # -*- coding: utf-8
 
-#AUTHOR : AZIM VAU (MR. ERROR)
+#AUTHOR : SOBAN SAMAR
 #OPEN SOURCE :)
-#DON'T FORGET TO GIVE CREDIT TO MR. ERROR
+#DON'T FORGET TO GIVE CREDIT TO SOBAN SAMAR
 
 P = "\033[97;1m" 
 M = "\033[91;1m" 
@@ -67,7 +67,7 @@ loc = requests.get('https://ipapi.com/ip_api.php?ip=' + ip, headers={'Referer': 
 def linex():
 	os.system('echo  "\n ======================================\n" | lolcat -a -d 2 -s 50')
 def logo():
-	os.system('echo "\n  \nᕙ𝑯ᕗᕙ𝑰ᕗᕙ𝑳ᕗᕙ𝑨ᕗᕙ𝑳ᕗ\nE̺͆T̺͆H̺͆I̺͆C̺͆A̺͆L̺͆ H̺͆A̺͆C̺͆K̺͆E̺͆R̺͆\nꈼW̶↦ꈼE̶↦ꈼL̶↦ꈼC̶↦ꈼO̶↦ꈼM̶↦ꈼE\nN̺͆O̺͆T̺͆H̺͆I̺͆N̺͆G̺͆ S̺͆P̺͆E̺͆C̺͆I̺͆A̺͆L̺͆\n🅴NJ🅾Y\n \n┎┈┈┈┈┈┈┈┈┈┈୨♡୧┈┈┈┈┈┈┈┈┈┈┒\n┖┈┈┈┈┈H˟˚I˟˚L˟˚A˟˚L˟˚ A˟˚H˟˚M˟˚E˟˚D˟˚┈┈୨♡୧┈┈┈┚" | lolcat -a -d 2 -s 50')	
+	os.system('echo "\n  \nᕙSᕗᕙOᕗᕙBᕗᕙ𝑨ᕗᕙNᕗ\nE̺͆T̺͆H̺͆I̺͆C̺͆A̺͆L̺͆ H̺͆A̺͆C̺͆K̺͆E̺͆R̺͆\nꈼW̶↦ꈼE̶↦ꈼL̶↦ꈼC̶↦ꈼO̶↦ꈼM̶↦ꈼE\nN̺͆O̺͆T̺͆H̺͆I̺͆N̺͆G̺͆ S̺͆P̺͆E̺͆C̺͆I̺͆A̺͆L̺͆\n🅴NJ🅾Y\n \n┎┈┈┈┈┈┈┈┈┈┈୨♡୧┈┈┈┈┈┈┈┈┈┈┒\n┖┈┈┈┈┈S˟˚O˟˚B˟˚A˟˚N˟˚ S˟˚A˟˚M˟˚A˟˚R˟˚┈┈୨♡୧┈┈┈┚" | lolcat -a -d 2 -s 50')	
 
 def main():
 	os.system("clear")
@@ -211,7 +211,7 @@ def crack_select1():
 			print('')
 			print("\t\033[93;1m  AUTO PASS CRACKING")
 			print('')
-			print("\033[92;1m  COINING FROM : "+q["name"])
+			print("\033[92;1m  CLONING FROM : "+q["name"])
 		except KeyError:
 			print("\t\033[91;1m  INVALID LINK OR TOKEN")
 			print("")
@@ -236,7 +236,7 @@ def crack_select1():
 			print('')
 			print("\t\033[93;1m  AUTO PASS CRACKING")
 			print('')
-			print("\033[92;1m  COINING FROM : "+q["name"])
+			print("\033[92;1m  CLONING FROM : "+q["name"])
 		except KeyError:
 			print("\t\033[91;1m     INVALID LINK OR TOKEN")
 			print("")
